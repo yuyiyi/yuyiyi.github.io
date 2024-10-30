@@ -7,7 +7,7 @@ I'm an assistant project scientist in SLAB (https://slslab.org/) at the Universi
 yiyiy@ucsb.edu
 
 
-### Education and work experience
+### Education
 BS in life science, Zhejiang University 
 
 PhD in Biomedical Engineering, Carnegie Mellon University 
