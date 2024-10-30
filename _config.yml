@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/blog.md", title: Blog}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: email: yiyiy@ucsb.edu, icon: envelope}
+  - {title: email: yiyiy at ucsb.edu, icon: envelope}
   - {title: Github, icon: github, url: "https://github.com/yuyiyi"}
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
