@@ -1,6 +1,9 @@
-# AUTOTUNE_GUIdevelopment                <img src = "" width = "300" align = "right">
+## Yiyi Yu's blog 
 
-Hello! I'm Yiyi and this is my blog. 
+
+### Contact
+yiyiy@ucsb.edu
+
 
 
 
