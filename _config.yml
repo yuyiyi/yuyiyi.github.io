@@ -17,9 +17,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: Home}
-  - {file: "resume.md", title: About}
+  #- {file: "index.html", title: Home}
   - {file: "blog.md", title: Blog}
+  - {file: "resume.md", title: About}
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: evenlope, url: "mailto:yiyiy@ucsb.edu"}
