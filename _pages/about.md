@@ -38,6 +38,7 @@ Yiyi Yu, Riichiro Hira, Jeffrey N Stirman, Waylin Yu, Ikuko T Smith & Spencer L 
 ## Computation
 ### AUTOTUNE: a software suite for dendritic imaging data
 
+![AUTOTUNEworkflow](/images/AUTOTUNEworkflow.jpg)
 Yiyi Yu, Liam M Adsit, Ikuko T Smith, “Comprehensive software suite for functional analysis and synaptic input mapping of dendritic spines imaged in vivo”, 2024, Neurophotonics, 11(2), 024307-024307
 [paper](https://www.spiedigitallibrary.org/journals/neurophotonics/volume-11/issue-02/024307/Comprehensive-software-suite-for-functional-analysis-and-synaptic-input-mapping/10.1117/1.NPh.11.2.024307.full)
 [AUTOTUNE download](https://github.com/yuyiyi/AUTOTUNE-for-Dendritic-imaging)
