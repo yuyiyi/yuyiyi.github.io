@@ -15,7 +15,6 @@ Publications
 ## Mouse vision
 ### Correlation within and inter-visual cortical areas 
 
-
 Yiyi Yu, Jeffery N Stirman, Christopher R Dorsett, Spencer L Smith, "Visual information is broadcast among cortical areas in discrete channels", 2024, eLife13:RP97848
 [Paper](https://elifesciences.org/reviewed-preprints/97848)
 
@@ -45,7 +44,7 @@ Yiyi Yu, Liam M Adsit, Ikuko T Smith, “Comprehensive software suite for functi
 
 
 
-## Mouse Olfactory bolb
+## Patch-clamp 
 ### Postnatal development of olfactory mitral cells 
 
 Yiyi Yu, Shawn D Burton, Shreejoy J Tripathy, Nathaniel N Urban, “Postnatal development attunes olfactory bulb mitral cells to high-frequency signaling”, 2015, Journal of Neurophysiology 114 (5), 2830-2842
