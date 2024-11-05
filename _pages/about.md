@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the blog page of Yiyi Yu, a postdoc researcher in a [neuroscience and neuro-engineering lab]([https://slslab.org/]) 
+This is the blog page of Yiyi Yu, a postdoc researcher in a [neuroscience and neuro-engineering lab](https://slslab.org/) 
 
 Publications
 ======
@@ -17,5 +17,5 @@ Publications
 
 cite: Yiyi Yu, Jeffery N Stirman, Christopher R Dorsett, Spencer LaVere Smith, "Visual information is broadcast among cortical areas in discrete channels", 2024, eLife13:RP97848
 
-[Paper]([https://elifesciences.org/reviewed-preprints/97848])
+[Paper](https://elifesciences.org/reviewed-preprints/97848)
 
