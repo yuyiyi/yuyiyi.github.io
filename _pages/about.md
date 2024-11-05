@@ -22,6 +22,7 @@ Yiyi Yu, Jeffery N Stirman, Christopher R Dorsett, Spencer LaVere Smith, "Visual
 
 ### Texture and motion segregation in mouse higher visual areas 
 
-![TextureMotionSegregation](/_pages/images/TextureMotionSegregation_summary.jpg)
+#![TextureMotionSegregation](/images/TextureMotionSegregation_summary.jpg)
+"Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 Yiyi Yu, Jeffery N Stirman, Christopher R Dorsett, Spencer LaVere Smith, "Selective representations of texture and motion in mouse higher visual areas", 2022, Current Biology 32, 2810-2820
 [Paper](https://www.cell.com/current-biology/pdf/S0960-9822(22)00730-8.pdf)
