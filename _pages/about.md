@@ -52,7 +52,7 @@ Yiyi Yu, Shawn D Burton, Shreejoy J Tripathy, Nathaniel N Urban, “Postnatal de
 [paper](https://journals.physiology.org/doi/full/10.1152/jn.00315.2015)
 
 
-## Mitochondria
+## Mitochondrial dynamics
 ### Mitochondria fusion and fission dynamics in Drosophila larval axons 
 
 Yiyi Yu, Hao-Chih Lee, Kuan-Chieh Chen, Joseph Suhan, Minhua Qiu, Qinle Ba, Ge Yang, “Inner membrane fusion mediates spatial distribution of axonal mitochondria”, 2016, Scientific reports 6(1), 18981
